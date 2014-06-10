@@ -1,11 +1,11 @@
 gu2
 ===
 
-Gamificated User 2 - Extended
-
 
 
 Gamificated Users
+
+http://gu.uxpd.net/
 
 What is it?
 
