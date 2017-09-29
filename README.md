@@ -35,3 +35,9 @@ Clicks increase XP. For every 10 clicks in the project pages that have marker, a
 Clicks and Mastered Pages Views are stored in the database while Refreshes (Pages views in session) are stored temporary in the browser session.
 
 Big enough XP number includes contents files in the sidebar.
+
+Anton Radev
+http://antonradev.com
+http://uxpd.net
+More projects: http://jui.uxpd.net/
+http://linkedin.com/in/antonradev
